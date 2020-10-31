@@ -1,2 +1,2 @@
 # Teleport-Panic
-2D multiplayer game make in Gamemaker Studio 2
+2D multiplayer game made in Gamemaker Studio 2
